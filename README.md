@@ -5,17 +5,13 @@ This is a repository to share my 3D shapes and  footprints for Kicad.
 ### FASTON 6.35mm:
 
 
-
-![FASTON 6.35mm](https://github.com/devincentiis/ADVkicadLibrary/tree/main/ADVlibrary.images/Faston6.35.jpg?raw=true)
-
+![FASTON 6.35mm](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Faston6.35.jpg?raw=true)
 
 
 ### RELAY LY2 DPDT:
 
 
-
-![RELAY LY2 DPDT](https://github.com/devincentiis/ADVkicadLibrary/tree/main/ADVlibrary.images/Relay_DPDT_LY2.jpg?raw=true)
-
+![RELAY LY2 DPDT](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Relay_DPDT_LY2.jpg?raw=true)
 
 
 ## License
