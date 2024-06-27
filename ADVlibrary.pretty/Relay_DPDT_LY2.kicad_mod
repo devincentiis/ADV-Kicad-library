@@ -233,13 +233,13 @@
 	)
 	(model "${KICAD_ADVLIB}/ADVlibrary.3dshapes/Relay_DPDT_LY2.step"
 		(offset
-			(xyz 0 -8.5 -5)
+			(xyz 0 -8.5 3.5)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 -90)
+			(xyz 0 180 90)
 		)
 	)
 )
