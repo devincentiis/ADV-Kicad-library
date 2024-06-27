@@ -1,8 +1,8 @@
 # ADVkicadLibrary
 
 
-## This is a repository to share my 3D shapes and  footprints for Kicad.
-### I make available the sources of 3D models created with Freecad
+## This is a repository to share my KiCad 3D shapes and  footprints.
+### I make available the sources of 3D models created with Freecad.
 
 
 ### FASTON 6.35mm:
