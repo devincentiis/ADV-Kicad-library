@@ -231,7 +231,7 @@
 		(roundrect_rratio 0.2857142857)
 		(uuid "290597c9-100d-4244-9ee8-0d29f0d862ec")
 	)
-	(model "${KICAD_ADVLIB}/ADVkicadLibrary/ADVlibray.3dshapes/Relay_DPDT_LY2.step"
+	(model "${KICAD_ADVLIB}/ADVlibrary.3dshapes/Relay_DPDT_LY2.step"
 		(offset
 			(xyz 0 -8.5 -5)
 		)
