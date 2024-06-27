@@ -180,7 +180,7 @@
 		(remove_unused_layers no)
 		(uuid "db3276a9-9acb-4a78-bcea-74b680c0a668")
 	)
-	(model "${KICAD_ADVLIB}/ADVlibray.3dshapes/Faston6.35.step"
+	(model "${KICAD_ADVLIB}/ADVkicadLibrary/ADVlibray.3dshapes/Faston6.35.step"
 		(offset
 			(xyz 0.4 0 0)
 		)
