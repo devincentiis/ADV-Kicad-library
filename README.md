@@ -18,8 +18,7 @@
 
 ### PUSHBUTTON SWITCH 16 mm:
 
-
-![PUSHBUTTON SWITCH 16 mm](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Relay_DPDTButtonPushSwitch16mm.jpg?raw=true)
+![PUSHBUTTON SWITCH 16 mm](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/ButtonPushSwitch16mm.jpg?raw=true)
 
 
 ## License
