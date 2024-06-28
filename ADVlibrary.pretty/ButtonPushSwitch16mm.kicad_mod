@@ -1,0 +1,131 @@
+(footprint "ButtonPushSwitch16mm"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 8 -5.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6b17f234-29bc-4222-b367-4e73279084e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ButtonPushSwitch16mm"
+		(at 1 -10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3d177d84-bbdc-4f0d-bae2-edb471afe202")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "ButtonPushSwitch16mm"
+		(at 0.5 11.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "481da3ea-39e3-4896-9f15-da40073fbff4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a9a7b62-4d37-4f0c-a99e-f43de80fd01b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0c50482-f30f-4bf5-aab4-3333f7afe03e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 7.5 -0.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "bcb8cffe-4503-467e-9e58-b4e7d71396fb")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 9 0)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "e681b586-3d87-4716-bb58-30b7a7eac84d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3a577bc9-922b-46e2-a14f-dbff97a3289d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -3)
+		(size 3.6 3.6)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b35b9572-e72d-443d-9ad8-bbff3f9af652")
+	)
+	(pad "2" thru_hole circle
+		(at 0 3)
+		(size 3.6 3.6)
+		(drill 2.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "24120c6c-e767-4443-9736-93eba4f2339f")
+	)
+	(model "${KICAD_ADVLIB}/ADVlibrary.3dshapes/ButtonPushSwitch16mm.step"
+		(offset
+			(xyz 0 0 19.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
