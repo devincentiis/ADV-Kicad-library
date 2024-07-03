@@ -1,18 +1,13 @@
 # ADVkicadLibrary
 
-
 ## This is a repository to share my KiCad 3D shapes and  footprints.
 ### I make available the sources of 3D models created with Freecad.
 
-
 ### FASTON 6.35mm:
-
 
 ![FASTON 6.35mm](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Faston6.35.jpg?raw=true)
 
-
 ### RELAY LY2 DPDT:
-
 
 ![RELAY LY2 DPDT](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Relay_DPDT_LY2.jpg?raw=true)
 
@@ -20,6 +15,9 @@
 
 ![PUSHBUTTON SWITCH 16 mm](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/ButtonPushSwitch16mm.jpg?raw=true)
 
+### AUREL RX-4MHCS-4B:
+
+![AUREL RX-4MHCS-4B](https://github.com/devincentiis/ADVkicadLibrary/blob/main/ADVlibrary.images/Aurel_RX-4MHCS-4B.jpg?raw=true)
 
 ## License
 
